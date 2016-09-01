@@ -1,4 +1,4 @@
 # hello-world
-__Hello, World!__<br/>
+Hello, World!<br/>
 <br/>
 This is a 'Hello World' project on GitHub.
