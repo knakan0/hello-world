@@ -1,3 +1,3 @@
 # hello-world
-Hello, World!<br/>
+Hello, World!
 This is a 'Hello World' project on GitHub.
